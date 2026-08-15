@@ -10,7 +10,7 @@ Fork of [find-and-replace](https://github.com/pulsar-edit/pulsar/tree/master/pac
 - **Regex options**: Ripgrep and PCRE2 regex buttons.
 - **Center scroll**: Navigate from result view centers the match.
 - **Progress display**: Distinct indicators for ripgrep and scandal.
-- **Scrollmap**: Shows search results in the scrollbar via [scrollmap](https://github.com/asiloisad/pulsar-scrollmap).
+- **Scrollmap**: Shows search results in the scrollbar via [scrollmap](https://github.com/asiloisad-pulsar/scrollmap).
 - **Search adapters**: The buffer find panel can search custom pane items such as data grids and notebooks when they expose a search adapter.
 
 ## Installation
@@ -194,7 +194,7 @@ Backward-compatible service for packages that still consume the built-in `find-a
 
 ## Note on themes
 
-Since `search-panel` uses different CSS classes (`.search-panel`, `.search-panel-project`) than the built-in `find-and-replace` (`.find-and-replace`, `.project-find`), some themes may not apply their custom styles to the search panel. If the panel looks unstyled, the theme needs to add the new selectors alongside the existing ones. [one-day-ui](https://github.com/asiloisad/pulsar-one-day-ui) already includes support for `search-panel`.
+Since `search-panel` uses different CSS classes (`.search-panel`, `.search-panel-project`) than the built-in `find-and-replace` (`.find-and-replace`, `.project-find`), some themes may not apply their custom styles to the search panel. If the panel looks unstyled, the theme needs to add the new selectors alongside the existing ones. [one-day-ui](https://github.com/asiloisad-pulsar/one-day-ui) already includes support for `search-panel`.
 
 ## Contributing
 
