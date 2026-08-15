@@ -15,7 +15,7 @@ Fork of [find-and-replace](https://github.com/pulsar-edit/pulsar/tree/master/pac
 
 ## Installation
 
-To install `search-panel` search for [search-panel](https://web.pulsar-edit.dev/packages/search-panel) in the Install pane of the Pulsar settings or run `ppm install search-panel`. Alternatively, you can run `ppm install asiloisad/pulsar-search-panel` to install a package directly from the GitHub repository.
+To install `search-panel` search for [search-panel](https://web.pulsar-edit.dev/packages/search-panel) in the Install pane of the Pulsar settings or run `ppm install search-panel`. Alternatively, you can run `ppm install asiloisad-pulsar/search-panel` to install a package directly from the GitHub repository.
 
 **Note**: This package automatically disables the built-in `find-and-replace` package to avoid conflicts.
 
