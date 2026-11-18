@@ -2,6 +2,9 @@
 
 Find and replace in buffers and across the project.
 
+> [!NOTE]
+> This package is in maintenance mode. If you use [Lumine](https://github.com/lumine-code/lumine), you may be interested in [search-panel](https://github.com/lumine-code/search-panel).
+
 Fork of [find-and-replace](https://github.com/pulsar-edit/pulsar/tree/master/packages/find-and-replace).
 
 ## Features
